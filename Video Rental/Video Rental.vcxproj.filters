@@ -34,4 +34,7 @@
       <Filter>테스트 코드</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
 </Project>

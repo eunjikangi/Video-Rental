@@ -1,7 +1,5 @@
-#include "pch.h"
-#include "../Project12/Customer.cpp";
-#include "../Project12/Rental.cpp";
-#include "../Project12/Movie.cpp";
+#include "gmock/gmock.h"
+#include "Customer.cpp"
 
 using std::string;
 
